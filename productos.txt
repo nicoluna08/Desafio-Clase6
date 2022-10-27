@@ -1,0 +1,26 @@
+[
+  {
+    "title": "camisa1",
+    "price": 421,
+    "thumbnail": "https://camisaprueba.com.ar/image/23432jrj32.jpg",
+    "id": 1
+  },
+  {
+    "title": "Camisa Hombre T39",
+    "price": 7223.45,
+    "thumbnail": "https://tommyargentina.vteximg.com.br/arquivos/ids/204137-500-667/MW0MW20819_0GY_3.jpg?v=637927176701830000",
+    "id": 2
+  },
+  {
+    "title": "blusa mujer",
+    "price": 2634.56,
+    "thumbnail": "https://patprimo.vteximg.com.br/arquivos/ids/1127519-1500-1800/blusas-de-mujer-30010449-74428_1.jpg?v=637874682703430000",
+    "id": 3
+  },
+  {
+    "title": "pantalon Jean Hombre",
+    "price": 3485.67,
+    "thumbnail": "https://indusbord.cl/wp-content/uploads/2018/04/pantalon-jeans-001-hombre-1-600x600.jpg",
+    "id": 4
+  }
+]
